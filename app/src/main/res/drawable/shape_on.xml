@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle" >
+            <corners
+                android:radius="100dp"
+                />
+            <solid
+                android:color="@android:color/white"
+                />
+            <size
+                android:width="50dp"
+                android:height="50dp"
+                />
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/ic_power_outline_on"
+        android:bottom="25dp"
+        android:left="25dp"
+        android:right="25dp"
+        android:top="25dp"/>
+</layer-list>

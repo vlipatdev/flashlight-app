@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Torcia elettrica</string>
+    <string name="permission">Richiedi l\'autorizzazione della fotocamera</string>
+    <string name="privacy_policy">politica sulla riservatezza</string>
+    <string name="camera_access_required">L\'accesso alla fotocamera è necessario per attivare il flash LED incorporato</string>
+    <string name="no_flash_detected">Nessun flash rilevato su questo dispositivo</string>
+</resources>

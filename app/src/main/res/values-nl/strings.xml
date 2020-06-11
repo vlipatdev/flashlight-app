@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaklamp</string>
+    <string name="permission">Vraag cameratoestemming aan</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="camera_access_required">Toegang tot de camera is nodig om de ingebouwde LED-flitser te activeren</string>
+    <string name="no_flash_detected">Geen flits gedetecteerd op dit apparaat</string>
+</resources>

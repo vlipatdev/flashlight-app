@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="camera_access_required">Kinakailangan ang pag-access sa camera upang ma-activate ang built-in na LED flash</string>
+    <string name="no_flash_detected">Walang nakitang flash sa device na ito</string>
+    <string name="permission">Humiling ng Pahintulot sa Camera</string>
+    <string name="privacy_policy">Patakaran sa Pagkapribado</string>
+</resources>

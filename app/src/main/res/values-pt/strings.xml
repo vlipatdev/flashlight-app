@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lanterna</string>
+    <string name="permission">Solicitar permissão da câmera</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="camera_access_required">É necessário acesso à câmera para ativar o flash LED embutido</string>
+    <string name="no_flash_detected">Nenhum flash detectado neste dispositivo</string>
+</resources>

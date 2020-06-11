@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手电筒</string>
+    <string name="camera_access_required">需要使用摄像头才能激活内置的LED闪光灯</string>
+    <string name="no_flash_detected">"在此设备上未检测到闪光 "</string>
+    <string name="permission">申请相机许可</string>
+    <string name="privacy_policy">隐私政策</string>
+</resources>

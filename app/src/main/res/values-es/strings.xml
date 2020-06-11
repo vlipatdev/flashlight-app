@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Linterna</string>
+    <string name="permission">Solicitar permiso de cámara</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="camera_access_required">Se necesita acceso a la cámara para activar el flash LED incorporado</string>
+    <string name="no_flash_detected">No se detectó flash en este dispositivo</string>
+</resources>

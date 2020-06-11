@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">懐中電灯</string>
+    <string name="permission">カメラの許可をリクエストする</string>
+    <string name="privacy_policy">個人情報保護方針</string>
+    <string name="camera_access_required">内蔵LEDフラッシュを有効にするにはカメラへのアクセスが必要で</string>
+    <string name="no_flash_detected">このデバイスでフラッシュは検出されませんでした</string>
+</resources>

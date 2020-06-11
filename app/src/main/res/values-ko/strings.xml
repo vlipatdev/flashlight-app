@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">플래시</string>
+    <string name="permission">카메라 권한 요청</string>
+    <string name="privacy_policy">개인 정보 정책</string>
+    <string name="no_flash_detected">이 장치에서 플래시가 감지되지 않습니다</string>
+    <string name="camera_access_required">내장 LED 플래시를 활성화하려면 카메라 액세스가 필요합니다</string>
+</resources>
